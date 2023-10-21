@@ -3,6 +3,7 @@
 % 2022/09/27
 
 clc; clear; close all;
+addpath("kriging demo\code\")
 %% Step 0: Load data file
 % x1,x2: 21*21 points between 0 and 2
 % z: 21*21 points
